@@ -1,6 +1,6 @@
 ### Verificação de PIN - Avaliação da Sprint 1
 
-Este projeto foi desenvolvido como parte da Avaliação da Sprint 1 e implementa um sistema de verificação de PIN em JavaScript. Abaixo estão os detalhes sobre o projeto e as entregas.
+Este projeto foi desenvolvido como parte da Avaliação da Sprint 1 do programa de bolsas da Compass UOL e implementa um sistema de verificação de PIN em JavaScript.
 
 ---
 
