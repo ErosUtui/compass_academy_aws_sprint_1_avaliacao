@@ -16,12 +16,12 @@ src/
 |   |-- PinVerifier.js
 |   |-- main.js
 |-- index.html
-
+```
 
 A pasta css contém o arquivo de estilos.
 A pasta js contém os scripts JavaScript, incluindo a classe PinVerifier.js responsável pela lógica do PIN.
 O arquivo index.html é a página principal do projeto.
-```
+
 
 
 ## Funcionalidades
