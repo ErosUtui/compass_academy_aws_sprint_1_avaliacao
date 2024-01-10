@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  input {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  #generatedPin {
+    font-weight: bold;
+    color: #009688;
+    font-size: 1.2em;
+  }
+  
+  #message {
+    color: #FF5722;
+    font-weight: bold;
+  }
+  
